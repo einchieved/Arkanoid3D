@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e42789a25fe2aa4daa5bbdc1166a58d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - multiBall: {fileID: 1981379989122883975, guid: 67fc9ef2d62528448ad657610e47fad0, type: 3}
+  - extendedPaddle: {fileID: 2963976686772134375, guid: 4c758f6dfd8f20944a1113bdc79e5b91, type: 3}
+  - shooting: {fileID: 2281992164610553078, guid: ee366ea713b3db34f90839d06d5ce8a7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
